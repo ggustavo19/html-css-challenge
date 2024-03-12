@@ -14,12 +14,14 @@
     <h2>Part 2: Scrape and Analyze Mars Weather Data</h2>
     <p>Open the Jupyter Notebook in the starter code folder named <code>part_2_mars_weather.ipynb</code>. Follow the steps below to scrape and analyze Mars weather data:</p>
     <ul>
+        <ol>
         <li>Visit the Mars Temperature Data Site. Inspect the page to identify which elements to scrape.</li>
         <li>Create a Beautiful Soup object and use it to scrape the data in the HTML table.</li>
         <li>Assemble the scraped data into a Pandas DataFrame with appropriate column headings.</li>
         <li>Examine and, if necessary, convert the data types of each column.</li>
         <li>Analyze the dataset to answer various questions about Mars' weather.</li>
         <li>Export the DataFrame to a CSV file.</li>
+        <ol>
     </ul>
     <h3>Analysis Questions</h3>
     <ul>
