@@ -6,7 +6,6 @@
 </head>
 <body>
     <h1>Instructions for Mars Data Analysis</h1>
-
     <h2>Part 1: Scrape Titles and Preview Text from Mars News</h2>
     <p>Open the Jupyter Notebook in the starter code folder named <code>part_1_mars_news.ipynb</code>. Follow the steps below to scrape the Mars News website:</p>
     <ul>
@@ -15,7 +14,6 @@
         <li>Extract the titles and preview text of the news articles. Store each title-and-preview pair in a Python dictionary with two keys: <code>title</code> and <code>preview</code>. Store all dictionaries in a Python list.</li>
         <li>Print the list in your notebook.</li>
     </ul>
-
     <h2>Part 2: Scrape and Analyze Mars Weather Data</h2>
     <p>Open the Jupyter Notebook in the starter code folder named <code>part_2_mars_weather.ipynb</code>. Follow the steps below to scrape and analyze Mars weather data:</p>
     <ul>
@@ -26,7 +24,6 @@
         <li>Analyze the dataset to answer various questions about Mars' weather.</li>
         <li>Export the DataFrame to a CSV file.</li>
     </ul>
-
     <h3>Analysis Questions</h3>
     <ul>
         <li>How many months exist on Mars?</li>
