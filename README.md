@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Mars Data Analysis Instructions</title>
-</head>
 <body>
     <h1>Instructions for Mars Data Analysis</h1>
     <h2>Part 1: Scrape Titles and Preview Text from Mars News</h2>
